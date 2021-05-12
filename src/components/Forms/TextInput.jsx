@@ -8,7 +8,7 @@ const TextInput = (props) => {
       id="standard-basic" 
       label={props.label}
       margin={"dense"}
-      multiline={props.maltilne}
+      multiline={props.multiline}
       row={props.rows}
       value={props.value}
       type={props.type}
